@@ -1,0 +1,127 @@
+.navbar{
+    background-color: rgb(2,24,60);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0px;
+}
+.links a{
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 0px 15px;
+    font-size: 20px;
+}
+.links a:hover{
+    color: wheat;
+}
+.home{
+    background-color: rgb(2, 24, 60);
+    text-align: center;
+    padding-bottom: 20px;
+}
+.poster img{
+    border-radius: 10px;
+}
+.movies_list img{
+    padding: 20px;
+}
+.movies_list{
+    margin: 0px 25px;
+    border-radius: 10px;
+}
+.favs {
+    background-color: rgb(2,24,60);
+    color: white;
+    text-align: center;
+    padding: 45px 0px;
+}
+.favs h1{
+    font-size: 50px;
+    margin-top: 0px;  
+}
+.list{
+    margin: 15px ;
+    padding: 20px 0px;
+    background-color: lightslategrey;
+
+}
+.list h1{
+    font-size: 30px;
+}
+.list:hover{
+    background-color: rgb(2,24,60);
+}
+.footer{
+    background-color:rgb(2, 24, 60) ;
+    text-align: center;
+    padding: 25px 0px;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 15px;
+}
+.footer p{
+    color: dimgrey;
+}
+.addfavs input{
+    display: block;
+    margin: 15px 0px;
+    width: 300px;
+    height: 40px;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.addfavs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(2, 24, 60) ;
+    padding: 45px 0px;
+}
+.addfavs button{
+    background-color: rgb(47, 95, 249);
+    width: 300px;
+    height: 40px;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.content{
+    background-color: rgb(12, 12, 90);
+    color: white;
+    height: 320px;
+    width: 400px;
+    text-align: center;
+    padding: 120px 45px 10px 15px; 
+}
+.forms{
+    padding: 0px 40px;
+}
+.about image{
+    display: block;
+}
+.about{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:rgb(2, 24, 60) ;
+    padding: 45px 0px;
+}
+.contents{
+    color: white;
+}
+.contents h1{
+    font-size: 50px;
+}
+.contents p{
+    font-size: 25px;
+}

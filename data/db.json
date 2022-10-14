@@ -1,0 +1,34 @@
+{"favourites" : [
+    {
+        "title":"Dark",
+        "genre":"Sci-Fic",
+        "lag":"german",
+        "rating":"9"
+
+    },
+    {
+        "title":"The mandlorian",
+        "genre":"Sci-Fic",
+        "lag":"English",
+        "rating":"8.5"
+    },
+    { 
+        "title":"The boys",
+        "genre":"Sic-Fic",
+        "lag":"English",
+        "rating":"8"
+    },
+    {
+        "title":"Naruto Uzumaki",
+        "genre":"Anime",
+        "lag":"Japanese",
+        "rating":"10"
+    
+    },
+    {
+        "title":"Death Note",
+        "genre":"Anime",
+        "lag":"Japanese",
+        "rating":"8.5"
+    }
+]}
